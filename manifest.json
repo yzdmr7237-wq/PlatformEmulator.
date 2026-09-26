@@ -1,0 +1,11 @@
+{
+  "name": "Desktop Mode",
+  "description": "Makes Discord Gateway IDENTIFY report Windows/Desktop instead of iOS.",
+  "authors": [
+    {
+      "name": "Desktop Mode"
+    }
+  ],
+  "main": "index.js",
+  "hash": "95896d972ee7a3d3"
+}

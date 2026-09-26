@@ -3,9 +3,8 @@
   "description": "Makes Discord Gateway IDENTIFY report Windows/Desktop instead of iOS.",
   "authors": [
     {
-      "name": "Desktop Mode"
+      "name": "yzdmr7237-wq"
     }
   ],
-  "main": "index.js",
-  "hash": "95896d972ee7a3d3"
+  "main": "index.js"
 }
